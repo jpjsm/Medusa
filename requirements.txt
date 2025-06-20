@@ -1,0 +1,14 @@
+defusedxml
+dlib
+face-recognition
+ImageHash
+numpy
+olefile
+Pillow
+pillow_heif
+psycopg[binary,pool]
+rawpy
+PyExifTool
+pydantic
+pgvector
+geopy

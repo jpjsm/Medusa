@@ -1,3 +1,7 @@
+# project specific ignores
+output/
+realpython-face-recognition/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -14,8 +18,9 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
-lib64/
+[Ll]ib/
+[Ll]ib64/
+[Ll]ib64
 parts/
 sdist/
 var/
